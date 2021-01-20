@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610265314 source:c:\users\lihokim\desktop\ÄÚµù\rotto\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
